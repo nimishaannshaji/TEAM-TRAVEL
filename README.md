@@ -16,7 +16,7 @@ The application is built using **React.js (Frontend)**, **Node.js + Express (Bac
 * React.js
 * Axios
 * React Router DOM
-* CSS (Glassmorphism + 3D UI)
+* CSS
 
 ### Backend
 
