@@ -151,6 +151,7 @@ http://localhost:3000
 ## Author
 
 **Team Name:** TEAM TRAVEL
+
 **Project Type:** Full Stack Web Application
 
 ---
