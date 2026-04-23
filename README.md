@@ -158,6 +158,6 @@ http://localhost:3000
 
 ## Conclusion
 
-This project demonstrates full-stack development using MERN stack concepts, including REST APIs, frontend-backend integration, and dynamic UI design.
+This project demonstrates full-stack development using MERN stack concepts, including REST APIs, frontend-backend integration, and dynamic UI design. Using this, a web application for team travelling is designed.
 
 ---
