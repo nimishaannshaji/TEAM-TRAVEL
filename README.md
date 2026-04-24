@@ -17,27 +17,24 @@ React Router DOM
 CSS
 BACKEND
 
-* Node.js
-* Express.js
-* MongoDB (Mongoose)
-* Multer (for image upload)
-* CORS
+Node.js
+Express.js
+MongoDB (Mongoose)
+Multer (for image upload)
+CORS
 
----
+FEATURES
 
-## Features
+Add new team members with image upload
+View all members in a card layout
+View detailed information of each member
+Update member details
+Delete member
+Responsive and modern UI (glass + 3D effects)
+Backend API integration
 
-* Add new team members with image upload
-* View all members in a card layout
-* View detailed information of each member
-* Update member details
-* Delete member
-* Responsive and modern UI (glass + 3D effects)
-* Backend API integration
 
----
-
-## Project Structure
+PROJECT STRUCTURE
 
 ```
 TEAM-TRAVEL/
