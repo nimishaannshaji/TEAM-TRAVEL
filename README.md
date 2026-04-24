@@ -2,12 +2,11 @@
 
 ## Project Description
 
-TEAM TRAVEL IS a full-stack web application designed to manage team members efficiently.
+TEAM TRAVEL is a full-stack web application designed to manage team members efficiently.
 It allows users to perform complete CRUD (Create, Read, Update, Delete) operations on team members, along with image upload functionality.
 
 The application is built using **React.js (Frontend)**, **Node.js + Express (Backend)**, and **MongoDB (Database)**.
 
----
 
 ## Technologies Used
 
